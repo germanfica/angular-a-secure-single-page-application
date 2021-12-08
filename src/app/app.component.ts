@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-security';
+  greeting = {'id': 'XXX', 'content': 'Hello World'};
 }
