@@ -1,10 +1,23 @@
-# AngularSecurity
+# A secure single page application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+I'm following the [A Secure Single Page Application](https://spring.io/guides/tutorials/spring-security-and-angular-js/#_spring_and_angular_js_a_secure_single_page_application) tutorial. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
 ## Related projects
 
 - [Spring security app](https://github.com/germanfica/spring-security)
+
+## Run the exiting project
+Commands to run when you want to run an angular project for the first time:
+```bash
+npm install
+ng serve
+```
+
+But you might want to update the node modules:
+```bash
+npm update
+ng serve
+```
 
 ## Development server
 
